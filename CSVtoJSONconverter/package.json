@@ -1,0 +1,15 @@
+{
+  "name": "csvtojsonconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvtojsonconv.js",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
